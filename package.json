@@ -1,0 +1,26 @@
+{
+  "name": "kl-webapi-iv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenjli/kl-webapi-iv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karenjli/kl-webapi-iv/issues"
+  },
+  "homepage": "https://github.com/karenjli/kl-webapi-iv#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3"
+  }
+}
